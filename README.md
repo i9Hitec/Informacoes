@@ -2,24 +2,36 @@
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu serviço a partir deste repositório, melhorar a peformance e aprendizado do serviço.
 
-<img alt="GIF" src="[https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif](https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif)" width="400px" />
+![Descrição da imagem](https://campsbc.org.br/wp-content/uploads/2021/03/gato-no-pc.gif)
 
 # Entregáveis
 
-<details>
+&nbsp;<details>
   <summary><strong>👨‍💻 Maquina Retornou Do cliente</strong></summary><br />
 
-<details>
- <summary><strong>Formatar a Maquina</strong></summary><br />
-   >**Conferencia da Tela**
-   >**Conferencia do teclado**
-   >**Conferencia dos USB**
-   >**Conferencia do Audio e Som**
-   >**Conferencia do Carregador**
-   >**Atualização dos drivers**
-   >**Atualização dos Windows**
-   >**Deixar em Stresser por 1 dia**
+---
+* <details>
+  <summary>
+  <h3>Formatação</h3>
+  </summary>
+  
+     >Conferência da Tela
+     
+     >Conferência do Teclado
+     
+     >Conferência dos USB
+     
+     >Conferência do Áudio e Som
+     
+     >Conferência do Carregador
+     
+     >Atualização dos drivers
+     
+     >Atualização do Windows
+
 </details>
+
+---
 
 ⚠️ **Não se preocupe em ter pressa, importante é fazer com calma para ir tudo certo**
 
